@@ -26,10 +26,10 @@ The project includes complete data preprocessing, feature engineering, model com
 
 🔗 **Web Application**
 
-> **Add your deployed Streamlit link here**
+> **Deployed Streamlit link :**
 
 ```
-https://your-app-name.streamlit.app
+https://employee-attrition-prediction-system-samyakjain.streamlit.app/
 ```
 
 ---
@@ -231,12 +231,20 @@ streamlit run app.py
 
 # 📸 Application Preview
 
-Replace these with screenshots of your application.
+- Home Page:
+<img width="2628" height="1495" alt="Home Page" src="https://github.com/user-attachments/assets/57801897-2714-47ee-9427-71f6b5e91d47" />
 
-- Home Page
-- Employee Input Form
-- Prediction Result
-- Probability Meter
+- Employee Input Form:
+<img width="2628" height="1495" alt="Employee Input Form" src="https://github.com/user-attachments/assets/9b03f1ee-fea9-4262-99c7-888c93a34b0c" />
+
+- Prediction Result:
+<img width="2628" height="1495" alt="Prediction Result" src="https://github.com/user-attachments/assets/2d7f7f70-7dce-4127-9f92-81749ffda6eb" />
+
+- Employee Sumary:
+<img width="2628" height="1495" alt="Employee Summary" src="https://github.com/user-attachments/assets/18cf22ea-43ce-4669-89da-53bfa44200f0" />
+
+- Dataset Preview:
+<img width="2860" height="1630" alt="Dataset Preview" src="https://github.com/user-attachments/assets/087d94dd-8c41-44e5-95a7-f0d76237326d" />
 
 ---
 
